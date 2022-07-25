@@ -21,6 +21,7 @@ The server used: express (npm)
 For simplification, the data fetched from DB is set on the default route(‘/’).
 Data is fetched from DB by the “GET” method.
 Express route: app.get(“/”, …..)
+--> http://localhost:3000/
 
 Data is fetched from DB and passed to the rendered index page
 
