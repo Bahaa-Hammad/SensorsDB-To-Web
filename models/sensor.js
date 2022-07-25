@@ -32,5 +32,5 @@ const SensorSchema = new Schema({
     Exports:  
 */
 
-// campground model class: 
+// sensor model class: 
 module.exports = mongoose.model('Sensor', SensorSchema);
